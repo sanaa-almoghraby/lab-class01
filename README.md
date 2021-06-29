@@ -80,3 +80,11 @@ Start time: ___3pm__
 Finish time: ___5pm__
 
 Actual time needed to complete: __2h___
+-------------------------------------------------------------------------------------------------
+Estimate of time needed to complete: _____Lab: Class 03
+
+Start time: ___1pm__
+
+Finish time: ___6pm__
+
+Actual time needed to complete: ___6h__
