@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
 .App {
   text-align: center;
 }
@@ -39,4 +40,17 @@
 .hornedstyle{
   display: inline-block;
   margin: 20px;
+  width: 350px;
+}
+.hornedstyle img{
+  width: 250px;
+  height: 200px;
+}
+
+.header{
+  font-family: 'Akaya Kanadaka', cursive;
+  text-align: center;
+  height: 80px;
+  margin-bottom: 20px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfzZbmJlw7aXyOihloa_RMRx-Bf0Xm803-A&usqp=CAU);
 }
